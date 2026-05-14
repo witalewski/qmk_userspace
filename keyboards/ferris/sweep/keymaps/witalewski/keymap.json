@@ -74,7 +74,7 @@
       "KC_9",
       "KC_0",
       "KC_NO",
-      "KC_TRNS",
+      "MS_BTN5",
       "KC_RBRC",
       "MO(4)"
     ],
@@ -109,7 +109,7 @@
       "KC_ASTR",
       "KC_LPRN",
       "KC_RPRN",
-      "KC_TRNS",
+      "MS_BTN5",
       "KC_NO",
       "KC_RCBR",
       "KC_TRNS"
